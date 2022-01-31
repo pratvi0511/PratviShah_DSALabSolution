@@ -15,7 +15,7 @@ The entered Strings do not contain Balanced Brackets
 ## Question 2 [MARKS 10]
 Print the longest path from the root to the leaf in a binary tree.
 
-![question2](./image/question2.jpg)
+![question2](./images/question2.jpg)
 
 Instructions
 1) You can declare class Node, in the same class as driver class.
